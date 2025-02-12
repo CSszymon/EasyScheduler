@@ -10,6 +10,7 @@ Zadania w EasyScheduler są zarządzane za pomocą dwóch parametrów:
 
 -  Czas uśpienia (sleep time) – czas po jakim zadanie powinno się "obudzić" i wykonać.
 -  Priorytet – wyższy priorytet oznacza, że zadanie o wyższym priorytecie zostanie wybrane do wykonania, jeśli więcej niż jedno zadanie będzie gotowe do           uruchomienia.
+
 Biblioteka umożliwia łatwe tworzenie prostych systemów wielozadaniowych bez potrzeby używania bardziej skomplikowanych systemów RTOS.
 
 W katalogu Przykłady znajdziesz pełną implementację, która pomoże Ci szybko rozpocząć pracę z biblioteką.
@@ -24,8 +25,9 @@ To add the library to your project, simply download the .zip file and import it 
 How it works?
 Tasks in EasyScheduler are managed using two parameters:
 
-Sleep time – the time after which the task should "wake up" and execute.
-Priority – a higher priority means that if multiple tasks are ready to run, the one with the higher priority will be selected.
+-  Sleep time – the time after which the task should "wake up" and execute.
+-  Priority – a higher priority means that if multiple tasks are ready to run, the one with the higher priority will be selected.
+
 This library allows you to easily create simple multitasking systems without the need for more complex RTOS solutions.
 
 In the Examples folder, you’ll find a full implementation to get you started quickly with the library.
