@@ -13,7 +13,9 @@ Zadania w EasyScheduler są zarządzane za pomocą dwóch parametrów:
 Biblioteka umożliwia łatwe tworzenie prostych systemów wielozadaniowych bez potrzeby używania bardziej skomplikowanych systemów RTOS.
 
 W katalogu Przykłady znajdziesz pełną implementację, która pomoże Ci szybko rozpocząć pracę z biblioteką.
+
 ---
+
 # **EN**
 EasyScheduler is a library for easily simulating multitasking on platforms like Arduino and STM32 (if using STM32duino). It is a great alternative to more complex RTOS libraries for simple and moderately complex applications.
 
