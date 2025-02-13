@@ -31,3 +31,6 @@ Tasks in EasyScheduler are managed using two parameters:
 This library allows you to easily create simple multitasking systems without the need for more complex RTOS solutions.
 
 In the Examples folder, you’ll find a full implementation to get you started quickly with the library.
+
+## Tags:
+#Arduino #Scheduler #EasyScheduler #EasyMultitasking
